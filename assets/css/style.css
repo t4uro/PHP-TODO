@@ -1,0 +1,35 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; }
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.6rem; }
+
+.form-control {
+	font-size: 1.6rem;
+} 
+
+.btn {
+	font-size: 1.6rem;
+}
+
+.controls a {
+	font-size: 13px;
+	margin-left: 8px;
+}
+
+.delete-link {
+	position: relative;
+	top: 2px;
+}
+
+
+/*# sourceMappingURL=style.css.map */
